@@ -120,7 +120,7 @@ EXAMPLES:
   nmap -v -sn 192.168.0.0/16 10.0.0.0/8
   nmap -v -iR 10000 -Pn -p 80
 SEE THE MAN PAGE (http://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
-root@kali:~# 
+```
 
 
 Example Usage
@@ -148,7 +148,7 @@ IP ID Sequence Generation: All zeros
 
 Read data files from: /usr/local/bin/../share/nmap
 Nmap done: 1 IP address (1 host up) scanned in 5.58 seconds
-           Raw packets sent: 1063 (47.432KB) | Rcvd: 1031 (41.664KB)
+Raw packets sent: 1063 (47.432KB) | Rcvd: 1031 (41.664KB)
 
 Links
 -------
